@@ -26,8 +26,12 @@ Image of your Call Center Trends Dashboard
 
 🔶 Anyone interested in data-driven decision-making
 
-## **Getting Started:**
-1. Clone this repository.
-2. Open the Call Center Analytics.pbix file in Power BI Desktop.
-3. Connect to your data source, Call-Center-Dataset.xlsx.
-4. Explore the dashboards and reports.
+## Future Enhancements:
+
+Adding predictive analytics to forecast call volumes and agent requirements.
+
+Enhancing visualizations with advanced DAX calculations.
+
+Integrating other data sources like customer surveys for deeper insights.
+
+
